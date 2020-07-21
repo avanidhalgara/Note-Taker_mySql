@@ -3,7 +3,7 @@ var express = require("express")
 var path = require("path");
 const fs = require("fs")
 var app = express();
-var connection = require('../config/connection');
+var connection = require('./config/connection');
 var PORT = process.env.PORT || 3001;
 
 
