@@ -6,6 +6,12 @@ The Note Taker is an app that uses an Express backend to save, retrieve, and del
 - MySql Database
 - Node.js
 - Express
+- Javascript/jquery
+- API
+- HTML5
+- CSS
+
+
 
  [Link for app](https://notertrackermysql.herokuapp.com/notes)
  
