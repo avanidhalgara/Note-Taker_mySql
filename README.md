@@ -12,6 +12,7 @@ The Note Taker is an app that uses an Express backend to save, retrieve, and del
 - API
 - HTML5
 - CSS
+- Bootstrap
 
 
 
